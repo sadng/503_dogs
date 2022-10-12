@@ -1,0 +1,41 @@
+body {
+		background-color: white;
+		padding: 50px;
+}
+h1 {
+	font-family: "Times New Roman";
+	color: #036128;
+	font-size: 7em;
+	font-weight: bold;
+}
+h2 {
+	font-family: "Times New Roman";
+	color: #169147;
+	font-size: 4em;
+}
+p {
+	font-family: "Times New Roman";
+	color: black;
+	font-size: 2em;
+}
+.dogs {
+	font-family: "Times New Roman";
+	font-size: 2.5em;
+	font-weight: bold;
+	color:#036128;
+	border: 2px solid black;
+}
+.names {
+	font-family: "Times New Roman";
+	font-size: 3em;
+	font-weight: bold;
+	vertical-align: middle;
+	border: 2px solid black;
+}
+.brbig {
+	display: block;
+	margin-bottom:1.5em;
+}
+img{
+	border: 10px solid black;
+}
